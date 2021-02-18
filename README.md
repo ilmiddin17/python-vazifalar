@@ -1,0 +1,2 @@
+# python-vazifalar
+vazifalar
