@@ -10,7 +10,7 @@ def oraliq(min,max,qadam=' '):
 			sonlar.append(min)
 			min=min+qadam
 	return sonlar
-#2-topshoriq
+#2-topshiriq
 def toliq_ism_yasa(ism,familya,otasining_ismi=' '):
 	if not otasining_ismi:
 		toliq_ism=f'{ism.title()} {familya.title()}'
