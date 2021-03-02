@@ -1,3 +1,4 @@
+#Ustoz Anvar Anvar Narzullayevni kodlari asosida
 from uzwords import words
 import random
 def get_word():
