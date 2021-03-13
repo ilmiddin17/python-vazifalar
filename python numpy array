@@ -1,0 +1,4 @@
+#1-topshiriq
+import numpy
+a=numpy.array([2,4,6,8,10,12])
+print(a/2)
